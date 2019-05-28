@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">MyIonicSuivi</string>
+    <string name="app_name">My Ionic -- Suivi</string>
+    <string name="title_loading">État de la charge</string>
+    <string name="content_pc">Récupération des informations de charge...</string>
+    <string name="w_connection_err">Impossible de vous connecter par wifi</string>
+    <string name="failed">Échec</string>
+    <string name="w_connection_ok">Vous êtes connecté au périphérique</string>
+    <string name="err_no_Wifi">Vous n\'êtes pas connecté en Wifi</string>
+    <string name="unknown_err">Erreur inconnue</string>
 </resources>

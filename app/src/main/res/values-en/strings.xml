@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Ionic -- Check up</string>
+    <string name="title_loading">Charging progress</string>
+    <string name="content_pc">Charging level : In progress...</string>
+    <string name="w_connection_err">Unable to connect by wifi</string>
+    <string name="failed">Failed.</string>
+    <string name="w_connection_ok">Connection to ECU made</string>
+    <string name="err_no_Wifi">You don\'t have a Wifi connection</string>
+    <string name="unknown_err">Unknown error</string>
+</resources>
